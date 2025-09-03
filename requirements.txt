@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+transformers
+datasets
+evaluate
+imblearn
+bs4
+tqdm
+ipykernel
